@@ -1,1 +1,0 @@
-# thinC_document
