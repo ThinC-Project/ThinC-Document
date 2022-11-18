@@ -17,6 +17,8 @@ AI ThinC - Advanced LG Lightwave Oven & Induction Cooktop
 
 ### 📔[블로그](https://velog.io/@aithinc)([https://velog.io/@aithinc](https://velog.io/@aithinc))
 
+### [피그마] https://www.figma.com/file/eUgrf38gcycWe8duN7NGbi/ThinC?node-id=0%3A1&t=1SSOBMdUKXhAt3TM-1
+
 ## 주요 기능
 
 ---
